@@ -6,7 +6,7 @@ A clean and responsive **Movie Browser App** built with React and Vite. Search f
 
 ## 🚀 Live Demo
 
-> 🔗 **[View Live →](movie-app-43-seven.vercel.app)**
+> 🔗 **[View Live →](movie-app-43-git-main-adarsh-dubey-s-projects.vercel.app)**
 
 ---
 
