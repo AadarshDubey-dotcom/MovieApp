@@ -1,16 +1,84 @@
-# React + Vite
+# 🎬 MovieApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive **Movie Browser App** built with React and Vite. Search for your favourite movies, explore details, and enjoy a smooth UI experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+> 🔗 **[View Live →](movie-app-43-seven.vercel.app)**
+> *(GitHub Pages pe deploy karne ke baad yahan link daalna)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Search movies by name
+- 🎥 View movie details and posters
+- 📱 Fully responsive design
+- ⚡ Fast and smooth performance with Vite
+
+---
+
+## 🛠️ Built With
+
+| Technology | Purpose |
+|-----------|---------|
+| React.js | UI Components & State Management |
+| Vite | Build Tool & Dev Server |
+| CSS | Styling & Responsive Layout |
+| JavaScript (ES6+) | Logic & API Handling |
+
+---
+
+## 📂 Project Structure
+
+```
+MovieApp/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/AadarshDubey-dotcom/MovieApp.git
+
+# 2. Navigate to project folder
+cd MovieApp
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the development server
+npm run dev
+```
+
+Then open `http://localhost:5173` in your browser.
+
+---
+
+## 📸 Screenshots
+
+> *(Apni app ka screenshot yahan add karna — Recruiters screenshots zaroor dekhte hain!)*
+
+---
+
+## 🙋‍♂️ Author
+
+**Aadarsh Dubey**
+- GitHub: [@AadarshDubey-dotcom](https://github.com/AadarshDubey-dotcom)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+
+---
+
+⭐ If you found this useful, please give it a star!
